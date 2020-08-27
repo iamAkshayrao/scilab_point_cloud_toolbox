@@ -8,10 +8,7 @@ This work is a part of the Scilab Toolbox Hackathon organised by FOSSEE, IIT Bom
 
 ## Purpose of the toolbox:
 
-Integration of functions of **Point Cloud Library** with **scilab**. Autonomous systems are being developed at a very
-large scale nowadays. Companies are investing billions. Almost all of them process point clouds. Hence it is necessary 
-for scilab to have tools which can be  used to process these point clouds.
-
+Interface functions of **Point Cloud Library** with **scilab**.
 
 ## Target Operating System
 
