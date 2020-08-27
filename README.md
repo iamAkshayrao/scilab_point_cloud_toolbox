@@ -1,31 +1,31 @@
 This work is a part of the Scilab Toolbox Hackathon organised by FOSSEE, IIT Bombay in June-July 2020. 
 [Link](https://fossee.in/ https://scilab.in/)
 
-#Name of the toolbox:
+## Name of the toolbox:
 ------------------------------------------------------------------------------------------------------------------------------------------------ 
 **Point_Cloud_Toolbox**
 
 
-#Purpose of the toolbox:
+# #Purpose of the toolbox:
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Integration of functions of **Point Cloud Library** with **scilab**. Autonomous systems are being developed at a very
 large scale nowadays. Companies are investing billions. Almost all of them process point clouds. Hence it is necessary 
 for scilab to have tools which can be  used to process these point clouds.
 
 
-#Target Operating System
+## Target Operating System
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Linux Ubuntu:	**18.04**
 Scilab Version: **6.0.2**
 
 
-#Name of the external software/library that the toolbox interfaces to
+## Name of the external software/library that the toolbox interfaces to
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Point Cloud Library (pcl)
 
 
 
-#Link to the source code of the chosen external software/library
+## Link to the source code of the chosen external software/library
 ------------------------------------------------------------------------------------------------------------------------------------------------
 souce code: 	[Link](https://github.com/PointCloudLibrary/pcl)
 Documentation:	[Link](https://pointclouds.org/documentation/)
@@ -34,7 +34,7 @@ website:	[Link](https://pointclouds.org/)
 **NOTE: The above links are just for reference. There is no need to install PCL library.**
  
 
-#Software prerequisites for building the Scilab Toolbox with suitable instructions to satisfy them
+## Software prerequisites for building the Scilab Toolbox with suitable instructions to satisfy them
 ------------------------------------------------------------------------------------------------------------------------------------------------
 *There are 4 mandatory dependencies that should be installed*
 
@@ -93,11 +93,11 @@ pcl-v0.1.0-src
 ```
 
 
-#THE SETUP IS COMPLETED AND NOW TOOLBOX CAN BE LAUNCHED FROM SCILAB.
+## THE SETUP IS COMPLETED AND NOW TOOLBOX CAN BE LAUNCHED FROM SCILAB.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#Building and loading the toolbox:
+## Building and loading the toolbox:
 ------------------------------------------------------------------------------------------------------------------------------------------------
   * Open Scilab.
   * Cick on "file and browse for new" and browse to the SH105_TOOLBOX directrory.
