@@ -96,7 +96,7 @@ pcl-v0.1.0-src
 ## Building and loading the toolbox:
 
   * Open Scilab.
-  * Cick on "file and browse for new" and browse to the SH105_TOOLBOX directrory.
+  * Cick on "file and browse for new" and browse to this directrory.
   * run "exec builder.sce" to build the toolbox for the first time. No need of executing this command from next time.	
   * run "exec loader.sce" to load the toolbox.
 
