@@ -44,7 +44,7 @@ chmod +x run.sh
 ``` 
 execute run.sh again.
 
-Download the binary files of Point Cloud Toolbox from atoms [Link](https://atoms.scilab.org/), extract and paste the __thirdparty__ directory inside the point cloud toolbox directory.
+Download the binary files of Point Cloud Toolbox from [atoms](https://atoms.scilab.org/), extract and paste the __thirdparty__ directory inside the point cloud toolbox directory.
 
 
 Your directory structure should look like this now: 
