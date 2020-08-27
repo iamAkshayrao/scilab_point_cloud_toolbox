@@ -1,0 +1,48 @@
+//This work is a part of the Scilab Toolbox Hackathon organised by FOSSEE, IIT Bombay in June-July 2020.
+//https://fossee.in/
+//https://scilab.in/
+Toolbox: Point_Cloud_Toolbox
+
+//Name for our toolbox
+Title: Point Cloud Toolbox
+
+// One-line description for our toolbox
+Summary: Integration of functions of Point Cloud Library with scilab.
+
+Version: 0.1.0
+
+Author: Ankit Kumar
+  Akshay S Rao
+  Aliasgar AV
+  Mohammed Rehab Sait
+
+// Name(s) and email address(es) of the person(s) maintaining this toolbox
+Maintainer: Ankit Kumar <nktkmr199@gmail.com>
+  Akshay S Rao <akkusrao@gmail.com>
+  Aliasgar AV <aliasgar.ec17@bmsce.ac.in>
+  Mohammed Rehab Sait <rehab.mr16@gmail.com>
+
+// Categories that this toolbox belongs to.
+// The toolbox will appear in the Scilab Atoms GUI
+// under the category that is select here.
+Category: Image Processing
+
+
+Entity: private individual
+
+// Optional website that has more information about this toolbox
+WebSite: pointclouds.org
+
+// License under which the toolbox will be published
+License: BSD
+
+ScilabVersion: >= 6.0
+
+Depends: 
+
+// Creation date
+Date: 2020-07-28
+
+Description: This work is a part of the Scilab Toolbox Hackathon organised by FOSSEE, IIT Bombay.Autonomous systems are being developed at a very large scale nowadays. Companies are investing billions. Almost all of them process point clouds. Hence it is necessary that scilab has tools which can be  used to process these point clouds.
+
+
