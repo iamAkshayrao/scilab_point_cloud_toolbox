@@ -1,27 +1,27 @@
 This work is a part of the [Scilab](https://scilab.in/) Toolbox Hackathon organised by [FOSSEE](https://fossee.in/), IIT Bombay in June-July 2020. 
 
 
-## Name of the toolbox:
+### Name of the toolbox:
 
 **Point_Cloud_Toolbox**
 
 
-## Purpose of the toolbox:
+### Purpose of the toolbox:
 
 Interface functions of **Point Cloud Library** with **scilab**.
 
-## Requirements
+### Requirements
 
 Linux Ubuntu:	**18.04** | Scilab Version: **6.0.2**
 
 
-## Name of the external software/library that the toolbox interfaces to
+### Name of the external software/library that the toolbox interfaces to
 
 Point Cloud Library (pcl)
 
 
 
-## Link to the source code of the chosen external software/library
+### Link to the source code of the chosen external software/library
 
 - [souce code: ](https://github.com/PointCloudLibrary/pcl)
 - [Documentation:](https://pointclouds.org/documentation/)
@@ -30,7 +30,7 @@ Point Cloud Library (pcl)
 **NOTE: The above links are just for reference. There is no need to install PCL library.**
  
 
-## Software prerequisites for building the Scilab Toolbox with suitable instructions to satisfy them
+### Software prerequisites for building the Scilab Toolbox with suitable instructions to satisfy them
 
 *There are 4 mandatory dependencies that should be installed*
 
@@ -93,7 +93,7 @@ pcl-v0.1.0-src
 
 
 
-## Building and loading the toolbox:
+### Building and loading the toolbox:
 
   * Open Scilab.
   * Cick on "file and browse for new" and browse to this directrory.
