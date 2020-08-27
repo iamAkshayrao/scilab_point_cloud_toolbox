@@ -1,10 +1,6 @@
+# Scilab Point Cloud Toolbox
+
 This work is a part of the [Scilab](https://scilab.in/) Toolbox Hackathon organised by [FOSSEE](https://fossee.in/), IIT Bombay in June-July 2020. 
-
-
-### Name of the toolbox:
-
-**Point_Cloud_Toolbox**
-
 
 ### Purpose of the toolbox:
 
