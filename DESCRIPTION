@@ -25,7 +25,7 @@ Maintainer: Ankit Kumar <nktkmr199@gmail.com>
 // Categories that this toolbox belongs to.
 // The toolbox will appear in the Scilab Atoms GUI
 // under the category that is select here.
-Category: Image Processing
+Category: Computer Vision
 
 
 Entity: private individual
