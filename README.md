@@ -25,12 +25,31 @@ Point Cloud Library (pcl)
 
 **NOTE: The above links are just for reference. There is no need to install PCL library.**
  
+#Steps for building and installing the toolbox:
+------------------------------------------------------------------------------------------------------------------------------------------------
+* clone this repository. 
 
-### Software prerequisites for building the Scilab Toolbox with suitable instructions to satisfy them
+* There are 4 mandatory dependencies that should be installed
 
-*There are 4 mandatory dependencies that should be installed*
+* The required dependencies can be installed by running the script file: run.sh
 
-*The required dependencies can be installed by running the script file*: run.sh 
+* Download [binaries](https://drive.google.com/drive/folders/15zF1PaebsCf1H0iD7xW8FD11x5J316LJ?usp=sharing) and extract third party folder.
+
+* After successful installation of dependencies open scilab and browse to the directory of this toolbox.
+
+* Execute the command: 
+
+```
+exec builder.sce
+```
+* Close scilab and zip the toolbox folder.
+
+* Open Scilab go to the directory of zip file and execute the command: 
+
+```
+atomsInstall("<zip file name>.zip") 
+```
+* Restart sciab and toolbox will be successfully installed. 
 
 **NOTE** 
 *If permission denied error comes, execute*
@@ -39,9 +58,6 @@ Point Cloud Library (pcl)
 chmod +x run.sh
 ``` 
 execute run.sh again.
-
-Download the binary files of Point Cloud Toolbox from [atoms](https://atoms.scilab.org/), extract and paste the __thirdparty__ directory inside the point cloud toolbox directory.
-
 
 Your directory structure should look like this now: 
 
@@ -86,16 +102,4 @@ pcl-v0.1.0-src
 
 
 ### THE SETUP IS COMPLETED AND NOW TOOLBOX CAN BE LAUNCHED FROM SCILAB.
-
-
-
-### Building and loading the toolbox:
-
-  * Open Scilab.
-  * Cick on "file and browse for new" and browse to this directrory.
-  * run "exec builder.sce" to build the toolbox for the first time. No need of executing this command from next time.	
-  * run "exec loader.sce" to load the toolbox.
-
-  * The toolbox is ready and functions can be executed now. Refer to __examples__ directory for detailed explanation regarding each function. 	  Refer to scilab help for examples for each function.
-
 
