@@ -26,7 +26,6 @@ Point Cloud Library (pcl)
 **NOTE: The above links are just for reference. There is no need to install PCL library.**
  
 ### Steps for building and installing the toolbox:
-------------------------------------------------------------------------------------------------------------------------------------------------
 * clone this repository. 
 
 * There are 4 mandatory dependencies that should be installed
